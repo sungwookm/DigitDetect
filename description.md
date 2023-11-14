@@ -3,7 +3,7 @@
 To train the model, we will use the [MNIST dataset](https://www.tensorflow.org/datasets/catalog/mnist).
 In a MNIST dataset, each of the 60,000 digits are stored as a numbered array.
 
-<img src='/images/mnist_array.png' width='90' height='90'>
+<img src='/images/mnist_array.png' width='300' height='300'>
 
 For the purpose of developing this model, MNIST data was recalibrated to size 28 x 28 and grayscale for training the model.
 
