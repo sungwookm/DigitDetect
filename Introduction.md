@@ -1,3 +1,4 @@
+<h1>DigitDetect</h1>
 One of the most prominent artificial intelligence applications are in the field of computer vision such as object detection and localization, visual data augmentation, visual navigation, and even in autonomous driving.
 
 As my first stepping stone towards my independent research in computer vision, I developed DigitDetectAI, a RL trained model that takes in user input of a digit ranging from 1-10 and predicts what the user input digit is.
