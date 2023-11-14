@@ -7,10 +7,10 @@ In a MNIST dataset, each of the 60,000 digits are stored as a numbered array.
 
 For the purpose of developing this model, MNIST data was recalibrated to size 28 x 28 and grayscale for training the model.
 
-![MNIST Data Recalibration](/images/mnist_recalibration.png)
+<img src='/images/mnist_recalibration.png' width='800' height='300'>
 
 The data was then trained with 8 layers as shown in the image below.
 
-![MNIST Model Structure](/images/mnist_architecture.png)
+<img src='/images/mnist_array.png' width='700' height='300'>
 
 With 10 epochs, we are able to train a model with an overall accuracy of **98.91%**.
